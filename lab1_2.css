@@ -1,0 +1,22 @@
+body {
+  background-color: #fad3be;
+}
+
+h1 {
+  margin: 0px;
+  padding: 30px 40px 20px 60px;
+  background-color: rgb(223, 143, 111);
+  width: 500px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.center1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-width: 600px;
+  max-width: 100vw;
+  min-height: 50vh;
+  text-align: center;
+}
